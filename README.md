@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 Working on: Automating Excel workflows with Python.<br><br>👯 Collaborating on: Open-source finance tools and Linux productivity scripts.<br><br>🤝 Seeking help with: Mastering advanced Git workflows and complex Regex patterns.<br><br>🌱 Learning: Preparing for CMA Inter exams and advanced Data Analysis.<br><br>💬 Ask me about: Excel, GST compliance, and 6-day PPL splits.<br><br>⚡ Fun fact: I balance ledger sheets by day and the Hunter 350 by night.
+🔭 Working on: Automating Excel workflows with Python.<br><br>👯 Collaborating on: Open-source finance tools and Linux productivity scripts.<br><br>🤝 Seeking help with: Mastering advanced Git workflows and complex Regex patterns.<br><br>🌱 Learning: Preparing for CMA Inter exams and advanced Data Analysis.<br><br>💬 Ask me about: Excel, GST compliance.<br><br>⚡ Fun fact: I balance ledger sheets by day and the Hunter 350 by night.
 
 
 ## 🌐 Socials:
